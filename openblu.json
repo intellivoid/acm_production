@@ -1,0 +1,36 @@
+{
+    "file_type": "acm_json",
+    "file_version": "1.0.0.0",
+    "configurations": {
+        "Database": {
+            "Host": "s1-sql4.db-production.bit-hosted.com",
+            "Port": "3306",
+            "Username": "intellivoid",
+            "Password": "PqJZ5!X&F#boO88j5#u$s7",
+            "Name": "openblu"
+        },
+        "ModularAPI": {
+            "IssuerName": "Intellivoid"
+        },
+        "RecordDirectory": {
+            "WIN_RecordDirectory": "c:\\openblu\\records",
+            "UNIX_RecordDirectory": "/etc/vpn_records"
+        }
+    },
+    "schemas": {
+        "Database": {
+            "Host": "localhost",
+            "Port": "3306",
+            "Username": "root",
+            "Password": "",
+            "Name": "openblu"
+        },
+        "ModularAPI": {
+            "IssuerName": "example"
+        },
+        "RecordDirectory": {
+            "WIN_RecordDirectory": "c:\\openblu\\records",
+            "UNIX_RecordDirectory": "\\var\\openblu\\records"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "configurations": {
+        "Database": {
+            "Host": "s1-sql4.db-production.bit-hosted.com",
+            "Port": "3306",
+            "Username": "intellivoid",
+            "Password": "PqJZ5!X&F#boO88j5#u$s7",
+            "Name": "coffee_house"
+        },
+        "Telegram": {
+            "BotName": "LydiaChatBot",
+            "ApiKey": "869979136:AAEi_uxDobRLwhC0wF0TMfkqAoy8IC0fA-0",
+            "WebHook": "https:\/\/webhook.intellivoid.info\/lydia\/index.php"
+        },
+        "ModularAPI": {
+            "IssuerName": "Intellivoid"
+        }
+    },
+    "schemas": {
+        "Database": {
+            "Host": "localhost",
+            "Port": "3306",
+            "Username": "admin",
+            "Password": "admin",
+            "Name": "coffee_house"
+        },
+        "Telegram": {
+            "BotName": "LydiaChatBot",
+            "ApiKey": "<API KEY>",
+            "WebHook": "https:\/\/localhost\/"
+        },
+        "ModularAPI": {
+            "IssuerName": "Intellivoid"
+        }
+    }
+}
