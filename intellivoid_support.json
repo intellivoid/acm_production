@@ -3,10 +3,10 @@
     "file_version": "1.0.0.0",
     "configurations": {
         "Database": {
-            "Host": "s1-sql4.db-production.bit-hosted.com",
-            "Port": "3306",
-            "Username": "intellivoid",
-            "Password": "PqJZ5!X&F#boO88j5#u$s7",
+            "Host": "pki2-authserver.gauthority.bit-hosted.com ",
+            "Port": "4291",
+            "Username": "root",
+            "Password": "48b491Ae.-23mbOPvZi18m-Ax",
             "Name": "intellivoid"
         }
     },
