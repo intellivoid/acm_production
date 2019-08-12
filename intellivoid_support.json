@@ -4,7 +4,7 @@
     "configurations": {
         "Database": {
             "Host": "pki2-authserver.gauthority.bit-hosted.com",
-            "Port": "4291",
+            "Port": 4291,
             "Username": "root",
             "Password": "48b491Ae.-23mbOPvZi18m-Ax",
             "Name": "intellivoid"
