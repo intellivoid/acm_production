@@ -7,7 +7,7 @@
             "Port": "4291",
             "Username": "root",
             "Password": "48b491Ae.-23mbOPvZi18m-Ax",
-            "Name": "intellivoid"
+            "Name": "coffeehouse"
         }
     },
     "schemas": {
@@ -16,7 +16,7 @@
             "Port": "3306",
             "Username": "root",
             "Password": "",
-            "Name": "intellivoid"
+            "Name": "coffeehouse"
         }
     }
 }

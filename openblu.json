@@ -9,11 +9,8 @@
             "Password": "48b491Ae.-23mbOPvZi18m-Ax",
             "Name": "openblu"
         },
-        "ModularAPI": {
-            "IssuerName": "Intellivoid"
-        },
         "RecordDirectory": {
-            "WIN_RecordDirectory": "c:\\openblu\\records",
+            "WIN_RecordDirectory": "c:\\vpn_records",
             "UNIX_RecordDirectory": "/etc/vpn_records"
         }
     },
@@ -25,12 +22,9 @@
             "Password": "",
             "Name": "openblu"
         },
-        "ModularAPI": {
-            "IssuerName": "example"
-        },
         "RecordDirectory": {
             "WIN_RecordDirectory": "c:\\openblu\\records",
-            "UNIX_RecordDirectory": "\\var\\openblu\\records"
+            "UNIX_RecordDirectory": "\/var\/vpn_records"
         }
     }
 }

@@ -1,19 +1,13 @@
 {
+    "file_type": "acm_json",
+    "file_version": "1.0.0.0",
     "configurations": {
         "Database": {
             "Host": "pki2-authserver.gauthority.bit-hosted.com",
             "Port": "4291",
             "Username": "root",
             "Password": "48b491Ae.-23mbOPvZi18m-Ax",
-            "Name": "coffee_house"
-        },
-        "Telegram": {
-            "BotName": "LydiaChatBot",
-            "ApiKey": "869979136:AAEi_uxDobRLwhC0wF0TMfkqAoy8IC0fA-0",
-            "WebHook": "https:\/\/webhook.intellivoid.info\/lydia\/index.php"
-        },
-        "ModularAPI": {
-            "IssuerName": "Intellivoid"
+            "Name": "coffeehouse"
         }
     },
     "schemas": {
@@ -22,15 +16,7 @@
             "Port": "3306",
             "Username": "admin",
             "Password": "admin",
-            "Name": "coffee_house"
-        },
-        "Telegram": {
-            "BotName": "LydiaChatBot",
-            "ApiKey": "<API KEY>",
-            "WebHook": "https:\/\/localhost\/"
-        },
-        "ModularAPI": {
-            "IssuerName": "Intellivoid"
+            "Name": "coffeehouse"
         }
     }
 }

@@ -1,0 +1,20 @@
+{
+    "file_type": "acm_json",
+    "file_version": "1.0.0.0",
+    "configurations": {
+        "TelegramService": {
+            "BotName": "LydiaChatBot",
+            "BotToken": "869979136:AAEi_uxDobRLwhC0wF0TMfkqAoy8IC0fA-0",
+            "BotEnabled": "true",
+            "WebHook": "https://webhook.intellivoid.info/lydiachatbot/index.php"
+        }
+    },
+    "schemas": {
+        "TelegramService": {
+            "BotName": "<BOT NAME HERE>",
+            "BotToken": "<BOT TOKEN>",
+            "BotEnabled": "true",
+            "WebHook": "http:\/\/localhost"
+        }
+    }
+}
